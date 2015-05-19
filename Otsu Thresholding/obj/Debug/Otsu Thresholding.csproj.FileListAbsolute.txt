@@ -1,0 +1,13 @@
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\bin\Debug\Otsu Thresholding.exe.config
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding.csprojResolveAssemblyReference.cache
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\MainWindow.baml
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\MainWindow.g.cs
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\App.g.cs
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding_MarkupCompile.cache
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding.g.resources
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu_Thresholding.Properties.Resources.resources
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding.csproj.GenerateResource.Cache
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\bin\Debug\Otsu Thresholding.exe
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\bin\Debug\Otsu Thresholding.pdb
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding.exe
+D:\Data\Projects\C#\Windows\Otsu Thresholding\Otsu Thresholding\obj\Debug\Otsu Thresholding.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Otsu_Thresholding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Otsu Thresholding" Height="300" Width="430">
+    <Grid>
+        <StackPanel>
+            <StackPanel x:Name="StackPanelOriginal" Orientation="Horizontal" VerticalAlignment="Top">
+                <Border BorderBrush="Black" BorderThickness="1" Margin="3">
+                    <Image x:Name="ImageOriginal" Width="200" Height="200"></Image>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="1" Margin="3">
+                    <Image x:Name="ImageEdited" Width="200" Height="200"></Image>
+                </Border>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Browse Image" Height="35" Width="150" x:Name="ButtonOpen" Click="ButtonOpen_Click"></Button>
+                <Button Content="Apply Otsu Thresholding" Height="35" Width="150" x:Name="ButtonThreshold" Click="ButtonThreshold_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
